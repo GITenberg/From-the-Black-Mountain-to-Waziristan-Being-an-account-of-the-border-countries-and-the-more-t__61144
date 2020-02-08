@@ -1,5 +1,5 @@
 _repo: From-the-Black-Mountain-to-Waziristan-Being-an-account-of-the-border-countries-and-the-more-t__61144
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Smith-Dorrien, Horace
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '51271'
     url: http://www.gutenberg.org/2009/agents/51271
     wikipedia: https://en.wikipedia.org/wiki/Horace_Smith-Dorrien
+covers:
+- cover_type: archival
+  image_path: 61144-h/images/cover.jpg
 creator:
   author:
     agent_name: Wylly, H. C. (Harold Carmichael)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51281
     wikipedia: https://en.wikipedia.org/wiki/H._C._Wylly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61144#From-the-Black-Mountain-to-Waziristan-Being-an-account-of-the-border-countries-and-the-more-t_
 gutenberg_issued: '2020-01-11'
 gutenberg_type: Text
 identifiers:
