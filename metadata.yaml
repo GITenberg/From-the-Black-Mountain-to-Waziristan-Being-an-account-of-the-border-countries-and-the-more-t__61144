@@ -1,0 +1,41 @@
+_repo: From-the-Black-Mountain-to-Waziristan-Being-an-account-of-the-border-countries-and-the-more-t__61144
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Smith-Dorrien, Horace
+    alias: Smith-Dorrien, Horace Lockwood, Sir
+    birthdate: 1858
+    deathdate: 1930
+    gutenberg_agent_id: '51271'
+    url: http://www.gutenberg.org/2009/agents/51271
+    wikipedia: https://en.wikipedia.org/wiki/Horace_Smith-Dorrien
+creator:
+  author:
+    agent_name: Wylly, H. C. (Harold Carmichael)
+    aliases:
+    - Wylly, Harold Carmichael
+    - Willy, H. C. (Harold Carmichael)
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '51281'
+    url: http://www.gutenberg.org/2009/agents/51281
+    wikipedia: https://en.wikipedia.org/wiki/H._C._Wylly
+description: ''
+gutenberg_issued: '2020-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61144'
+  lccn: war13000132
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethnology -- Pakistan -- Khyber Pakhtunkhwa'
+- !lcc 'DS'
+- !lcsh 'Khyber Pakhtunkhwa (Pakistan) -- History, Military'
+- GITenberg
+title: "From the Black Mountain to Waziristan\r\nBeing an account of the border countries\
+  \ and the more turbulent of the tribes controlled by the north-west frontier province,\
+  \ and of our military relations with them in the past"
+url: http://www.gutenberg.org/ebooks/61144
